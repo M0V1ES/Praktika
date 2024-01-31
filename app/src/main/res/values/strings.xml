@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Splash</string>
+    <string name="Onboard1Quick">Quick Delivery At Your \n Doorstep</string>
+    <string name="Onboard1Enjoy">Enjoy quick pick-up and delivery to \n your destination</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="Onboard2Flexible">Flexible Payment</string>
+    <string name="OnBoard2Different">Different modes of payment either \n before and after delivery without \n stress</string>
+    <string name="Onboard3Real">Real-time Tracking</string>
+    <string name="Onboard3Track">Track your packages/items from the \n comfort of your home till final destination</string>
+    <string name="Signup">Sign Up</string>
+    <string name="Haveacc">Already have an account?</string>
+    <string name="Signin">Sign in</string>
+</resources>
