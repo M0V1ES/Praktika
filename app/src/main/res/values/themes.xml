@@ -7,7 +7,7 @@
     </style>
 
     <style name="Theme.Splash" parent="Base.Theme.Splash" />
-    
+
     <style name="OnBoard1" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:windowBackground">@drawable/splash</item>
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
