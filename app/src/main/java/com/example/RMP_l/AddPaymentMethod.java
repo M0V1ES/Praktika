@@ -48,7 +48,7 @@ public class AddPaymentMethod extends AppCompatActivity {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if (isChecked){
-                    check2.setChecked(false);
+                    check2.setChecked(true);
                     check1.setChecked(false);
                     check4.setChecked(false);
                 }
@@ -59,7 +59,7 @@ public class AddPaymentMethod extends AppCompatActivity {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
                 if (isChecked){
-                    check2.setChecked(false);
+                    check2.setChecked(true);
                     check3.setChecked(false);
                     check1.setChecked(false);
                 }
